@@ -76,7 +76,7 @@ youtube-downloader/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/youtube-downloader.git
+https://github.com/SarvagyaCodex/youtube-downloader.git
 ```
 
 Move into the project directory:
